@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-860-add-pagination-and-response-metadata-to",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-860-add-pagination-and-response-metadata-to": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-860-add-pagination-and-response-metadata-to",
+    "origin"
+  ]
+}
